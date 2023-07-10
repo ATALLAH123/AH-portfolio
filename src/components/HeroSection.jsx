@@ -38,9 +38,10 @@ function HeroSection() {
 			</div>
 
 				<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', position: 'absolute', top: '1rem', left: '9.5rem' }}>
-  <a
-    data-aos="fade-right"
-    href="https://www.instagram.com/houssem.atallah"
+
+					  <a
+     data-aos="fade-right"
+     href="https://www.instagram.com/houssem.atallah"
     className="bg-indigo-500 text-white text-lg p-4 rounded-md"
     style={{ marginBottom: '1rem', marginRight: '1rem' }}
   >
@@ -68,7 +69,7 @@ function HeroSection() {
 			 
 
 			
-</div>
+             </div>
 		
 	);
 }
